@@ -19,8 +19,8 @@
     <menuitem
             id="menu_crm_lead_checklist_item"
             name="Checklist Items"
-            parent="crm.crm_menu_config"
+            parent="crm.crm_menu_sales"
             action="action_crm_lead_checklist_item"
-            sequence="50"
+            sequence="6"
     />
 </odoo>
