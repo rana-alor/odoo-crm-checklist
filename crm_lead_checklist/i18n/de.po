@@ -1,0 +1,130 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* crm_lead_checklist
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-16 22:46+0000\n"
+"PO-Revision-Date: 2026-03-16 22:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__active
+msgid "Active"
+msgstr "Aktiv"
+
+#. module: crm_lead_checklist
+#: model:ir.model,name:crm_lead_checklist.model_crm_lead_checklist_item
+msgid "CRM Lead Checklist Item"
+msgstr "CRM-Lead Checklistenpunkt"
+
+#. module: crm_lead_checklist
+#: model:ir.model,name:crm_lead_checklist.model_crm_lead_checklist_line
+msgid "CRM Lead Checklist Line"
+msgstr "CRM-Lead Checklistenzeile"
+
+#. module: crm_lead_checklist
+#: model_terms:ir.ui.view,arch_db:crm_lead_checklist.view_crm_lead_form_checklist
+msgid "Checklist"
+msgstr "Checkliste"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead__checklist_done
+msgid "Checklist Done"
+msgstr "Erledigt"
+
+#. module: crm_lead_checklist
+#: model:ir.actions.act_window,name:crm_lead_checklist.action_crm_lead_checklist_item
+#: model:ir.ui.menu,name:crm_lead_checklist.menu_crm_lead_checklist_item
+msgid "Checklist Items"
+msgstr "Checklistenpunkte"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead__checklist_line_ids
+msgid "Checklist Lines"
+msgstr "Checklistenzeile"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead__checklist_progress
+msgid "Checklist Progress"
+msgstr "Fortschritt"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead__checklist_total
+msgid "Checklist Total"
+msgstr "Gesamt"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__create_uid
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__create_date
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__display_name
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__is_done
+msgid "Done"
+msgstr "Erledigt"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__id
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__id
+msgid "ID"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__item_id
+msgid "Item"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__write_uid
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__write_date
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__lead_id
+msgid "Lead"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model,name:crm_lead_checklist.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "Lead/Verkaufschance"
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__name
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__name
+msgid "Name"
+msgstr ""
+
+#. module: crm_lead_checklist
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_item__sequence
+#: model:ir.model.fields,field_description:crm_lead_checklist.field_crm_lead_checklist_line__sequence
+msgid "Sequence"
+msgstr "Reihenfolge"
