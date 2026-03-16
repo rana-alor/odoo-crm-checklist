@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="view_crm_lead_form_checklist" model="ir.ui.view">
+        <field name="name">crm.lead.form.checklist</field>
+        <field name="model">crm.lead</field>
+        <field name="inherit_id" ref="crm.crm_lead_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//notebook" position="inside">
+                <page string="Checklist">
+                    <field name="checklist_line_ids" nolabel="1">
+                        <list delete="0" create="0" editable="bottom">
+                            <field name="sequence" widget="handle"/>
+                            <field name="name" readonly="1"/>
+                            <field name="is_done"/>
+                        </list>
+                    </field>
+                </page>
+            </xpath>
+        </field>
+    </record>
+</odoo>
