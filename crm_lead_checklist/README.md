@@ -1,6 +1,6 @@
 # CRM Lead Checklist
 
-Add a configurable checklist to CRM leads to track progress during the sales process.
+Configurable checklist on CRM leads to track progress during the sales process.
 
 ---
 
